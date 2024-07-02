@@ -184,5 +184,5 @@ user表对应的结构体数据
 
 # service 
 ## s_order.go
-![alt text](image.png)
+![alt text](image/image.png)
 各个type有重复等
