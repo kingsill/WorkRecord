@@ -63,8 +63,6 @@ if tmp, ok := c.Get("user"); ok {
 
 # common
 通常用于放项目中重复使用的代码
-刘留
-刘刘留2
 ## conn
 ## Error
 ## global
